@@ -3,3 +3,4 @@
 *.meta
 assets/*
 *.glsl
+*.wgsl
