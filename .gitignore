@@ -4,3 +4,4 @@
 assets/*
 *.glsl
 *.wgsl
+*.cuh
