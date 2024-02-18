@@ -1,7 +1,0 @@
-fn rgb2cmyk(rgb: vec3f) -> vec4f {
-    let k = min(1.0 - rgb.r, min(1.0 - rgb.g, 1.0 - rgb.b));
-    let invK = 1.0 - k;
-    var cmy = (1.0 - rgb - k) / invK;
-    cmy *= step(0.0, invK);
-    return saturate(vec4f(cmy, k));
-}
