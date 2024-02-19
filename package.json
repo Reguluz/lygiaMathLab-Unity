@@ -1,6 +1,6 @@
 {
   "name": "com.lygia.xyz",
-  "displayName": "lygia Math lab for Unity"
+  "displayName": "lygia Math lab for Unity",
   "version": "1.1.7",
   "description": "lygia, it's a granular and multi-language shader library designed for performance and flexibility",
   "unity": "2018.3",
