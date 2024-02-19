@@ -1,7 +1,10 @@
 {
-  "name": "lygia",
+  "name": "com.lygia.xyz",
+  "displayName": "lygia Math lab for Unity"
   "version": "1.1.7",
   "description": "lygia, it's a granular and multi-language shader library designed for performance and flexibility",
+  "unity": "2018.3",
+  "dependencies": {},
   "main": "dist/umd/lygia.main.js",
   "unpkg": "dist/umd/lygia.main.js",
   "jsdelivr": "dist/umd/lygia.main.js",
@@ -30,7 +33,7 @@
     "wgsl-shader",
     "metal-shader"
   ],
-  "author": "Patricio Gonzalez Vivo",
+  "author": "Original by Patricio Gonzalez Vivo, transplanted by Reguluz",
   "license": "Prosperity License & Patron License (https://lygia.xyz/license)",
   "bugs": {
     "url": "https://github.com/patriciogonzalezvivo/lygia/issues"
