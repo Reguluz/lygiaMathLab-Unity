@@ -5,5 +5,7 @@
   "description": "lygia, it's a granular and multi-language shader library designed for performance and flexibility",
   "unity": "2018.3",
   "dependencies": {},
-  "author": "Original by Patricio Gonzalez Vivo, transplanted by Reguluz",
+  "author": {
+    "name": "Original by Patricio Gonzalez Vivo, transplanted by Reguluz"
+  }
 }
