@@ -5,22 +5,15 @@
   "description": "lygia, it's a granular and multi-language shader library designed for performance and flexibility",
   "unity": "2018.3",
   "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/patriciogonzalezvivo/lygia.git"
-  },
   "keywords": [
     "library",
     "computer-graphics",
     "shader",
     "shader-library",
     "hlsl",
-    "hlsl-shader",
+    "hlsl-shader"
   ],
+  "type": "Shader",
   "author": "Original by Patricio Gonzalez Vivo, transplanted by Reguluz",
   "license": "Prosperity License & Patron License (https://lygia.xyz/license)",
-  "bugs": {
-    "url": "https://github.com/patriciogonzalezvivo/lygia/issues"
-  },
-  "homepage": "https://lygia.xyz",
 }
